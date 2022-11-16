@@ -1,0 +1,11 @@
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\bin\Debug\Asal sayı bulma1.exe.config
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\bin\Debug\Asal sayı bulma1.exe
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\bin\Debug\Asal sayı bulma1.pdb
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.csproj.AssemblyReference.cache
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal_sayı_bulma1.Form1.resources
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal_sayı_bulma1.Properties.Resources.resources
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.csproj.GenerateResource.cache
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.csproj.CoreCompileInputs.cache
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.exe
+C:\Users\ERTUĞRUL\Desktop\visual studio projeler\Asal sayı bulma1\Asal sayı bulma1\obj\Debug\Asal sayı bulma1.pdb
